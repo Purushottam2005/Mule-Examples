@@ -12,6 +12,7 @@ package org.mule.example.bookstore.web;
 
 /**
  * Poor man's CSS stylesheet
+ * Otra doc, para esta clase.
  */
 public class HtmlTemplate
 {
